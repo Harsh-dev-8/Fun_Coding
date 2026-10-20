@@ -10,3 +10,12 @@ function ageTeller(age) {
 const newAge = ageTeller(21);
 
 console.log(`your age in 2046 will be = ${newAge}`); 
+console.log("hello");
+
+console.log("hello world");
+try {
+    console.log("hello from try block")
+}
+catch {
+    console.log("you got some errors mate");
+}

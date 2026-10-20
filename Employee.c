@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX 100
-
+#define MAX 103
 struct Employee {
     int  id;
     char name[50];
