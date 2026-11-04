@@ -1,7 +1,6 @@
 import json
 import time
 from pathlib import Path
-from collections import 
 
 APP_NAME = "Motion Trainer"
 VERSION = "1.0.0"
